@@ -1,0 +1,26 @@
+{
+  "name": "smarthomehubtea",
+  "version": "1.0.0",
+  "description": "Welcome to SmartHomeHub! SmartHomeHub is an all-in-one smart home automation platform designed to simplify your life and enhance your living experience. Whether you're controlling lights, adjusting thermostats, or monitoring security cameras, SmartHomeHub provides a seamless and intuitive interface to manage your smart devices.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/senyi6/SmartHomeHub.git"
+  },
+  "keywords": [
+  "sample",
+  "npm",
+  "package"
+  ],
+  "author": "senyi6",
+  "license": "MIT",
+  "dependencies": {
+  "lodash": "^4.17.21",
+  "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+  "react": ">=16.8.0",
+  "react-dom": ">=16.8.0"
+  }
+  }
